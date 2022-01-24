@@ -19,3 +19,11 @@ body{
 .top_slider_section .btn-convention:focus{
     background-color: #c43030;
 }
+.img_hover{
+    transition: 0.5s ease-in-out;
+}
+.img_hover:hover{
+    transform: scale(1.075);
+    opacity: .75;
+}
+
