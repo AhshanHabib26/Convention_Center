@@ -1,3 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif !important;
 }
+.top_header_section .header_txt{
+    font-size: 22px;
+    font-weight: 700;
+    color: #00b894;
+}
+.top_slider_section{
+    margin-top: 20px;
+}
+.top_slider_section .btn-convention{
+    background-color: #00b894;
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+.top_slider_section .btn-convention:focus{
+    background-color: #c43030;
+}
